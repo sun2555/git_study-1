@@ -1,13 +1,9 @@
-[link keyword][id]
 
-[id]: URL "Optional Title here"
 
-// code
-Link: [Google][googlelink]
-[googlelink]: https://google.com "Go google"
+[naver][googlelink]
 
-Link: [naver][addr]
-[addr]: https://www.naver.com "네이버"
+[googlelink]: https://naver.com "Go google"
+
 
 수평선
 ---------------------------
