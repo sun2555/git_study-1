@@ -4,9 +4,10 @@
 
 // code
 Link: [Google][googlelink]
-
 [googlelink]: https://google.com "Go google"
 
+Link: [naver][addr]
+[addr]: https://www.naver.com "네이버"
 
 수평선
 ---------------------------
