@@ -4,6 +4,10 @@
 
 [googlelink]: https://naver.com "Go google"
 
+[daum][addr]
+
+[addr]: https://daum.net "다음"
+
 
 수평선
 ---------------------------
