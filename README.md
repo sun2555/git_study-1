@@ -1,18 +1,21 @@
-사이트주소 : <http://daum.net/>
+사이트 주소 : <http://daum.net>
 
-[Google](https://google.com, "google link")
+[link keyword][id]
 
-[이름](https://naver.com, "툴팁")
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+[daum][addr]  
+[addr]:https://daum.net
 
 
-
-[naver][googlelink]
-
-[googlelink]: https://naver.com "Go google"
-
-[daum][addr]
-
-[addr]: https://daum.net "다음"
+// code
+Link: [naver][naverlelink]
+[addr]:http://www.naver.com"네이버"
 
 
 수평선
